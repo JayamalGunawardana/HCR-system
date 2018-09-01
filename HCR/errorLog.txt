@@ -1,0 +1,52 @@
+Mar 22, 2018 12:28:24 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error
+Mar 22, 2018 12:28:51 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+Mar 24, 2018 11:17:24 AM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.IllegalArgumentException: adding container's parent to itself
+Mar 24, 2018 9:13:13 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Mar 24, 2018 9:14:05 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Mar 24, 2018 9:17:10 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Mar 24, 2018 10:16:23 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Mar 24, 2018 10:56:32 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Mar 24, 2018 11:07:39 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Aug 17, 2018 6:47:00 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Aug 20, 2018 8:31:59 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
+Aug 21, 2018 5:55:52 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Aug 21, 2018 6:02:37 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Aug 21, 2018 6:04:54 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Aug 21, 2018 6:05:13 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Aug 21, 2018 6:06:45 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+Aug 21, 2018 6:22:28 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: NO)
+Aug 21, 2018 6:26:08 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: NO)
+Aug 21, 2018 6:29:36 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: NO)
+Aug 21, 2018 6:30:37 PM net.flood.ocrnn.util.DBConnect <init>
+WARNING: Error:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown database 'useraccess'
